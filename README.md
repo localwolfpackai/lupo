@@ -2,8 +2,6 @@
 
 > A scroll-responsive WebGL hero experience with dithered black & white aesthetics.
 
-![Hero Animation](https://github.com/user-attachments/assets/placeholder.gif)
-
 ## ✨ Features
 
 - **LUPO Letter Cycling** — Morphing 3D cubes form L → U → P → O
@@ -16,7 +14,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/anthonylupo/lupo.git
+git clone https://github.com/localwolfpackai/lupo.git
 cd lupo
 
 # Install dependencies
