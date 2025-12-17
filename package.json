@@ -1,0 +1,27 @@
+{
+  "name": "webgl-playground",
+  "version": "1.0.0",
+  "description": "Interactive WebGL & Three.js animation playground for rapid prototyping",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "webgl",
+    "threejs",
+    "shaders",
+    "animation",
+    "creative-coding",
+    "phenomenon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "phenomenon": "^1.6.0"
+  }
+}
